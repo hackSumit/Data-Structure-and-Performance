@@ -9,5 +9,15 @@ Introduction to the course<br>
 ## Week 2
 Working with Strings in Java
 
-### Assignment:Part 1: Implement the missing methods in BasicDocument.java<br>
+### Assignment:Part I: Implement the missing methods<br>
 [a link]
+
+### Assignment:Part II: Implement the getFleschScore<br>
+[a link]
+
+## Week 3 
+Efficiency Analysis and Benchmarking
+### Assignment: Making Flesch Score Calculation More Efficient<br>
+ Document.java, 
+ EfficientDocument.java and
+BasicDocument.java
