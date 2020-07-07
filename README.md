@@ -34,10 +34,18 @@ Implement and Test a Linked List
 ## Week 5
 Spell Checking and Autocomplete
 ### Assignment:Part I Spell checking and more benchmarking
-* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/tree/master/MOOCTextEditor/src/document/ MyLinkedListTester.java"> DictionaryLL.java </a> 
-* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/tree/master/MOOCTextEditor/src/document/ MyLinkedListTester.java"> DictionaryBST.java </a>
+* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/DictionaryLL.java"> DictionaryLL.java </a> 
+* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/DictionaryBST.java"> DictionaryBST.java </a>
 
 ### Assignment:Part II Autocomplete
-* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/tree/master/MOOCTextEditor/src/document/ MyLinkedListTester.java"> AutoCompleteDictionaryTrie.java</a> 
+* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/ AutoCompleteDictionaryTrie.java"> AutoCompleteDictionaryTrie.java</a> 
+
+## Week 6
+Spelling Suggestions
+### Assignment:Part I Implement letter mutation methods in Nearby Words
+* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/ AutoCompleteDictionaryTrie.java"> NearbyWords.java </a> 
+  
+### Assignment:Part II Complete the method suggestions in NearbyWords
+* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/ AutoCompleteDictionaryTrie.java"> NearbyWords.java </a> 
 
 
