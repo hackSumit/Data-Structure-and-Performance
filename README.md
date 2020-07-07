@@ -18,6 +18,6 @@ Working with Strings in Java
 ## Week 3 
 Efficiency Analysis and Benchmarking
 ### Assignment: Making Flesch Score Calculation More Efficient<br>
- Document.java, 
+ [a link])(https://github.com/hackSumit/Data-Structure-and-Performance/tree/master/MOOCTextEditor/src/document.java) 
  EfficientDocument.java and
 BasicDocument.java
