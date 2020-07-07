@@ -49,4 +49,5 @@ Spelling Suggestions
 * <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/NearbyWords.java"> NearbyWords.java </a> 
 
 
-Disclaimer :All the assignment are submitted by me ,when I was doing the course.So all the assignment may not give you 100% score,but it gives to enough score to pass..
+Disclaimer :All the assignment are submitted by me ,when I was doing the course.So all the assignment may not give you 100% score,but it gives to enough score to pass.
+###If you liked the resources just give it a star to the repository.
