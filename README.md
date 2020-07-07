@@ -29,7 +29,7 @@ Implement and Test a Linked List
 ### Assignment:Part I: MyLinkedList Implementation<br>
 * <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/textgen/MyLinkedList.java">MyLinkedList.java</a> 
 ### Assignment:Part II:MyLinkedListTester<br>
-* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/tree/master/MOOCTextEditor/src/document/ MyLinkedListTester.java"> MyLinkedListTester.java</a> 
+* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/tree/master/MOOCTextEditor/src/document/MyLinkedListTester.java"> MyLinkedListTester.java</a> 
 
 ## Week 5
 Spell Checking and Autocomplete
@@ -38,7 +38,7 @@ Spell Checking and Autocomplete
 * <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/DictionaryBST.java"> DictionaryBST.java </a>
 
 ### Assignment:Part II Autocomplete
-* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/ AutoCompleteDictionaryTrie.java"> AutoCompleteDictionaryTrie.java</a> 
+* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/AutoCompleteDictionaryTrie.java"> AutoCompleteDictionaryTrie.java</a> 
 
 ## Week 6
 Spelling Suggestions
