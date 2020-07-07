@@ -50,4 +50,4 @@ Spelling Suggestions
 
 
 Disclaimer :All the assignment are submitted by me ,when I was doing the course.So all the assignment may not give you 100% score,but it gives to enough score to pass.<br>
-###If you liked the resources just give it a star to the repository.
+### If you liked the resources just give it a star to the repository.
