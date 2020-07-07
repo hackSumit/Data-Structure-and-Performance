@@ -43,9 +43,10 @@ Spell Checking and Autocomplete
 ## Week 6
 Spelling Suggestions
 ### Assignment:Part I Implement letter mutation methods in Nearby Words
-* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/ AutoCompleteDictionaryTrie.java"> NearbyWords.java </a> 
+* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/NearbyWords.java"> NearbyWords.java </a> 
   
 ### Assignment:Part II Complete the method suggestions in NearbyWords
-* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/ AutoCompleteDictionaryTrie.java"> NearbyWords.java </a> 
+* <a href="https://github.com/hackSumit/Data-Structure-and-Performance/blob/master/MOOCTextEditor/src/spelling/NearbyWords.java"> NearbyWords.java </a> 
 
 
+Disclaimer :All the assignment are submitted by me ,when I was doing the course.So all the assignment may not give you 100% score,but it gives to enough score to pass..
